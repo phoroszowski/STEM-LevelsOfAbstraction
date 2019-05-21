@@ -1,4 +1,4 @@
-Source Material:
+Resource Material:
 
 YouTube Crash Course Playlist
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
@@ -6,3 +6,4 @@ https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 
 https://learn.sparkfun.com/tutorials/the-great-big-guide-to-paper-circuits
+
